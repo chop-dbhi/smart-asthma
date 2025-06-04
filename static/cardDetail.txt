@@ -1,0 +1,1 @@
+Evaluation:{{.Evaluation}},Alive:{{.Alive}},Encounter:{{.Encounter}},Asthma:{{.Asthma}},AsthmaEncDx:{{.AsthmaEncDx}},AsthmaMed:{{.AsthmaMed}},PersistentAsthma:{{.PersistentAsthma}}

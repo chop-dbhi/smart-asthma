@@ -1,0 +1,19 @@
+{
+    "alertTextLocation": "<DATABASE_ID>",
+    "asthmaActionPlan" : {
+        "greenZone": "<DATABASE_ID>",
+        "yellowZone": "<DATABASE_ID>",
+        "medicationMap": {
+            "<ID1>": ["<ID>"],
+            "<ID2>": ["<ID>"],
+            "<ID3>": ["<ID>"]
+        }
+    },
+    "observationOID": "<OID>",
+    "asthmaControlTool": {
+        "<DATABASE_ID1>": true,
+        "<DATABASE_ID2>": true
+    },
+    "orderSetKey": "<ORDER_SET_KEY>",
+    "systemUser": "<SYSTEM_USER"
+}

@@ -19,7 +19,15 @@
 
 # Go workspace file
 go.work
-go.work.sum
 
-# env file
-.env
+# Build binary
+smart-asthma
+
+# Environment variables
+*.env
+
+# OS Files
+.DS_Store
+
+# Validation files
+validation/*
